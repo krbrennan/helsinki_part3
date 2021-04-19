@@ -1,0 +1,4 @@
+[submodule "partC/backend/helsinki_3"]
+	path = partC/backend/helsinki_3
+	url = https://github.com/krbrennan/helsinki_3
+	branch = master
