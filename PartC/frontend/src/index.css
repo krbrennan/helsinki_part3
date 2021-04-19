@@ -1,0 +1,41 @@
+.top-div {
+  display: flex;
+  flex-direction: column;
+  /* width: 80%; */
+}
+
+.title {
+}
+/* Error message */
+.errorDiv {
+  /* width: 33%; */
+  height: 100px;
+  margin: 0;
+}
+
+.errorMessage {
+  background: rgba(255, 0, 0, 0.253);
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 1em;
+  width: 70%;
+  color: red;
+  font-size: 21px;
+  border: 2px solid wheat;
+}
+
+.successDiv {
+  height: 100px;
+  margin: 0;
+}
+
+.successMessage {
+  background: #f3f3f3;
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 1em;
+  width: 70%;
+  color: green;
+  font-size: 21px;
+  border: 2px solid wheat;
+}

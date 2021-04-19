@@ -1,0 +1,25 @@
+.top-div {
+  display: flex;
+  flex-direction: column;
+  /* width: 80%; */
+}
+
+.title {
+}
+/* Error message */
+.errorDiv {
+  /* width: 33%; */
+  height: 100px;
+  margin: 0;
+}
+
+.errorMessage {
+  background: #f3f3f3;
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 1em;
+  width: 70%;
+  color: green;
+  font-size: 21px;
+  border: 2px solid wheat;
+}
